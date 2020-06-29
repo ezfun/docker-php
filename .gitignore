@@ -1,6 +1,5 @@
 /services/mysql/data
 */*._*
-.env
 /service/nginx/vhost/default.conf
 .idea
 /logs/*
